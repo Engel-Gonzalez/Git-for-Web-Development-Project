@@ -39,3 +39,40 @@ I answered
 <h1 class="a b c d">
 
 I answered 0. The correct answer is 4.
+
+This is my practice project. ---> https://codepen.io/epaing/pen/KKzOYJe
+
+Pregunta 1
+1 / 1 pts
+What does the ls command do in the terminal?
+  moves to the parent folder in the directory 
+  lists git status 
+¡Correct!
+  list the contents of the current directory 
+ 
+Pregunta 2
+1 / 1 pts
+How do you create a new branch with git?
+¡Correct!
+  git checkout -b 
+  git checkout -bb 
+  git branch -b 
+  git branch 
+ 
+Pregunta 3
+1 / 1 pts
+What does the git add command do?
+  Adds file to the directory 
+  Adds changes to a pull request 
+¡Correct!
+  Adds files to the staging area (aka index) to be committed 
+  Adds files to the repo 
+ 
+Pregunta 4
+1 / 1 pts
+What does a pull request do?
+  creates a new local branch from master 
+  synchronizes changes made on a local branch with a remote branch 
+  merges a branch into another 
+¡Correct!
+  lets you review differences betwen branches 
