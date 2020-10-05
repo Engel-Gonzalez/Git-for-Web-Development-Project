@@ -1,0 +1,41 @@
+https://codepen.io/epaing/pen/wvGbrYv?editors=0100
+
+review questions :
+
+1. Which of the following is not a semantic tag in HTML ?
+
+I answered <h1>; correct answer is <div>. (I read the question wrong I was very sleepy :().
+
+2. Which is the best way to include an image in HTML ?
+
+I answered <img src="image.png" /> which is correct. 
+
+3.In the example below, which element(s) is considered the "parent"?
+<div id = "banner">
+    <h1> This is a title </h1>
+    <h2> This is a subtitle </h2>
+              <li> list item 1 </li>
+              <li> list item 2 </li>
+</div>
+
+I answered <h1>. Correct answer is <div>
+
+4.Which CSS syntax would change the font size of h1 elements to 24px?
+
+I answered  
+h1{
+font-size:24px;
+}                   	Which is correct.
+
+5.Which is the most specific css that changes the size of this image?
+<img class="myimage" src="image.jpg"/>
+
+I answered 
+.myimage {
+   width:200px;
+}			Which is correct.
+
+6.How many classes does the following element have?
+<h1 class="a b c d">
+
+I answered 0. The correct answer is 4.
